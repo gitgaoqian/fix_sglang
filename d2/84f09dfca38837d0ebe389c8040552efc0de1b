@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "d284f09dfca38837d0ebe389c8040552efc0de1b",
+  "prompts": {},
+  "humans": {
+    "h_49cbc8fb690102": {
+      "author": "gitgaoqian <gaoqianneu@gmail.com>"
+    }
+  }
+}
